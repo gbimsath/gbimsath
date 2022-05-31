@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | ![Profile views](https://komarev.com/ghpvc/?username=gbimsath&style=flat&color=brightgreen)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | 
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
@@ -41,6 +41,7 @@
 
  [![Spotify](https://spotify-readme-3s61yj059-xditya.vercel.app/api/spotify)](https://open.spotify.com/user/on84l0syf9y9m2m84unz4h8uq)
 
+![Profile views](https://komarev.com/ghpvc/?username=gbimsath&style=flat&color=brightgreen)
 ---
 
 <!---
