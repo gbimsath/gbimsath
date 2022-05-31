@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg)
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
