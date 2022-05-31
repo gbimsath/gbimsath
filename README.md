@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Gavesh Bimsath](https://t.me/gbimsath) | ![Profile views](https://komarev.com/ghpvc/?username=xMalitha&style=flat&color=brightgreen)
+## Hi [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | ![Profile views](https://komarev.com/ghpvc/?username=gbimsath&style=flat&color=brightgreen)
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
