@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Languages and tools
+## 🛠️ 
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://www.gnu.org/software/bash/" class="padded" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> </a> 
@@ -43,6 +43,6 @@
 ---
 
 <!---
-xMalitha/xMalitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gbimsath/gbimsath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
