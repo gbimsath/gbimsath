@@ -1,4 +1,4 @@
-## Hi [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | ![Profile views](https://komarev.com/ghpvc/?username=gbimsath&style=flat&color=brightgreen)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg) | ![Profile views](https://komarev.com/ghpvc/?username=gbimsath&style=flat&color=brightgreen)
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
