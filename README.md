@@ -34,7 +34,7 @@
 ## 🔗 Connect with me
 
 <a href="https://t.me/gbimsath" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
-<a href="https://twitter.com/gavesh_bimsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
+<a href="https://twitter.com/gbimsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdarkk0" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gavesh_bimsath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshithaxd" height="30" width="40" /></a>
 </p>
 
