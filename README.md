@@ -19,6 +19,7 @@
 <a href="https://www.w3.org/html/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/css/" class="padded" target="_blank"> <img src="https://github.com/gbimsath/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
 <a href="https://www.java.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
+<a href="https://www.javascript.com/" class="padded" target="_blank"> <img src="https://github.com/gbimsath/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
 <a href="https://www.linux.org/" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> 
 <a href="https://www.photoshop.com/en" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.postgresql.org" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
