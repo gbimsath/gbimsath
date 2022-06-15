@@ -1,8 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://gbimsath.ml)
 
-- 💫 I’m Still A Student
-- 📫 [Connect with me](#-connect-with-me).
-- ⚡ Always ready to help!
+* 💫 I’m Still A Student
+* 📫 [Connect with me](#-connect-with-me).
+* ⚡ Always ready to help!
+* 🌐 [My Official Website](https 🌐gbimsath.ml)
  <br><br>
 
 
