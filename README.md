@@ -3,7 +3,7 @@
 * 💫 I’m Still A Student
 * 📫 [Connect with me](#-connect-with-me).
 * ⚡ Always ready to help!
-* 🌐 [My Official Website](https 🌐gbimsath.ml)
+* 🌐 [My Official Website](https://gbimsath.ml)
  <br><br>
 
 
