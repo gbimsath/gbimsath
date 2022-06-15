@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&lines=Hi+I'm+Gavesh+Bimsath+)](https://gbimsath.ml)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://gbimsath.ml)
 
 
 * 💫 I’m Still A Student
