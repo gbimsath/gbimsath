@@ -32,7 +32,7 @@
 
 ## 📊 Stats
 
-![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=gbimsath&include_all_commits=true&count_private=true&theme=highcontrast)(https://github.com/gbimsath)
+[![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=gbimsath&include_all_commits=true&count_private=true&theme=highcontrast)](https://github.com/gbimsath)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbimsath&layout=compact&theme=radical)](https://github.com/gbimsath)
 <p align="center">
