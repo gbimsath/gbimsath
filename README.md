@@ -32,11 +32,11 @@
 
 ## 📊 Stats
 
-![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=gbimsath&include_all_commits=true&count_private=true&theme=highcontrast )(https://github.com/gbimsath)
+![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=gbimsath&include_all_commits=true&count_private=true&theme=highcontrast)(https://github.com/gbimsath)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbimsath&layout=compact&theme=radical)](https://github.com/gbimsath)
 <p align="center">
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=gbimsath&custom_title=Gavesh+Bimsath's+Contribution+Graph&theme=xcode" href="https://github.com/gbimsath"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=gbimsath&custom_title=Gavesh+Bimsath's+Contribution+Graph&theme=xcode" href="https://github.com/gbimsath">
 </p>
 
 ## 🔗 Connect with me
