@@ -1,11 +1,11 @@
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://gbimsath.ml)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hi+I'm+Gavesh+Bimsath+)](https://gbimsath.tk)
 
 
 * 💫 I’m Still A Student
 * 📫 [Connect with me](#-connect-with-me).
 * ⚡ [Always ready to help!](https://t.me/gbimsath)
-* 🌐 [My Official Website](https://gbimsath.ml)
+* 🌐 [My Official Website](https://gbimsath.tk)
  <br><br>
 
 
@@ -45,7 +45,7 @@
 <a href="https://twitter.com/gbimsath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gbimsath" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gavesh_bimsath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gbimsath" height="30" width="40" /></a>
 <a href="https://www.github.com/gbimsath/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="gbimsath" height="30" width="40" /></a>
-<a href="https://gbimsath.ml" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
+<a href="https://gbimsath.tk" target="blank"><img align="center" src="https://github.com/gbimsath/gbimsath/blob/main/assets/images/web.png" alt="gbimsath" height="40" width="40" /></a> <!--<a href="https://www.flaticon.com/free-icons/web-site" title="web site icons">Web site icons created by Ilham Fitrotul Hayat - Flaticon</a> --> 
 
 </p>
 
