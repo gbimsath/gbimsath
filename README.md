@@ -5,7 +5,7 @@
 * 💫 I’m Still A Student
 * 📫 [Connect with me](#-connect-with-me).
 * ⚡ [Always ready to help!](https://t.me/gbimsath)
-* 🌐 [My Official Website](https://gbimsath.tk)
+* 🌐 [My Website](https://gbimsath.tk)
  <br><br>
 
 
